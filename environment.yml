@@ -9,6 +9,7 @@ dependencies:
   - r-clustercrit
   - r-partykit
   - r-rpart
+  - r-rpart.plot
   - r-naivebayes
   - r-arules
   - r-fselector
